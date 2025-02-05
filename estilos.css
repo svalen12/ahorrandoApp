@@ -1,0 +1,12 @@
+.fondo{
+    background-image: url(./img/fondo.jpg);
+    padding: 25%;
+    background-position: top center;
+    background-size: cover;
+    background-attachment: fixed;
+
+}
+
+.menu{
+    background-color: #41b935;
+}
